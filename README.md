@@ -70,7 +70,7 @@ const Beatriz = {
 
 Estudante de **Sistemas de Informação**, interessada na conexão entre tecnologia, desenvolvimento de software e gestão de negócios.
 
-Acredito que a tecnologia é uma ferramenta essencial para solucionar problemas, otimizar processos e tornar a gestão das empresas mais eficientes.
+Acredito que a tecnologia é uma ferramenta essencial para solucionar problemas, otimizar processos e tornar a gestão das empresas mais eficiente.
 > "Transformando curiosidade em projetos."
 
 ---
