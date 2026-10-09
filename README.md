@@ -1,9 +1,9 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050505,50:6d28d9,100:a855f7&text=BEATRIZ%20ROMAN&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:ff69b4,50:ff1493,100:db2777&text=BEATRIZ%20ROMAN&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=C084FC&center=true&vCenter=true&width=900&lines=INICIANDO+SISTEMA...;ESTUDANTE+DE+SISTEMAS;DESENVOLVEDORA+SOFTWARE;JAVA+%7C+UI%2FUX"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=ec4899&center=true&vCenter=true&width=900&lines=INICIANDO+SISTEMA...;ESTUDANTE+DE+SISTEMAS;DESENVOLVEDORA+SOFTWARE;JAVA+%7C+UI%2FUX"/>
 
 </div>
 
@@ -155,9 +155,9 @@ CIÊNCIA DE DADOS 🚀
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=beatrizroman0104&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=beatrizroman0104&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizroman0104&layout=compact&langs_count=8&theme=midnight-purple"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizroman0104&layout=compact&langs_count=8&theme=rose_pine"/>
 
 </div>
 
