@@ -61,13 +61,6 @@ const Beatriz = {
     "HTML",
     "IntelliJ IDEA"
   ],
-
-  paixões: [
-    "Tecnologia",
-    "Design",
-    "Aprendizado"
-  ]
-
 }
 ```
 
