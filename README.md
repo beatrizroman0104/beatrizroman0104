@@ -131,15 +131,13 @@ Acredito que evoluir como desenvolvedora também significa evoluir como pessoa.
 │        MEUS OBJETIVOS            │
 ╰─────────────────────────────────╯
 
-[██████████] Criar projetos reais
+[██████████] Desenvolver projetos práticos
 
-[█████████░] Evoluir no Front-end
+[█████████░] Aprimorar meus conhecimentos em Java, SQL e C
 
-[████████░░] Aprofundar Backend
+[████████░░] Aprender novas tecnologias
 
-[████████░░] Estudar Engenharia de Software
-
-[███████░░░] Explorar Inteligência Artificial
+[███████░░░] Crescer profissionalmente, unindo TI e gestão empresarial
 
 [████████░░] Construir meu portfólio
 
